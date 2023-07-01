@@ -1,1 +1,9 @@
-first file
+Parameters needed
+
+
+Strike Price
+Expiry date
+Time
+Current nifty Price
+CE Price
+PE price
